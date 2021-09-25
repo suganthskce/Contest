@@ -1,3 +1,31 @@
-2 1
-1 0
-2 0
+a 80
+a 80
+a 80
+b 100
+b 100
+b 100
+enddd  100
+enddd  200
+enddd  300
+300
+a 100
+a 100
+a 100
+b 200
+b 160
+b 120
+enddd  120
+enddd  160
+enddd  280
+enddd  320
+enddd  360
+360
+a 100
+a 120
+a 140
+b 100
+b 120
+b 140
+enddd  140
+enddd  240
+240
